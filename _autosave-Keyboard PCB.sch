@@ -19,7 +19,7 @@ U 1 1 5E422482
 P 2500 5200
 F 0 "U1" H 2500 3311 50  0000 C CNN
 F 1 "ATmega32U4-AU" H 2500 3220 50  0000 C CNN
-F 2 "Housings_QFP:LQFP-64_14x14mm_Pitch0.8mm" H 2500 5200 50  0001 C CIN
+F 2 "Package_QFP:TQFP-44_10x10mm_P0.8mm" H 2500 5200 50  0001 C CIN
 F 3 "http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7766-8-bit-AVR-ATmega16U4-32U4_Datasheet.pdf" H 2500 5200 50  0001 C CNN
 	1    2500 5200
 	1    0    0    -1  
