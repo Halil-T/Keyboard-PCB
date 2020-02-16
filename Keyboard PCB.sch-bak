@@ -2367,4 +2367,17 @@ Connection ~ 9050 3200
 Connection ~ 9450 3200
 Wire Wire Line
 	9450 3200 9050 3200
+Wire Wire Line
+	10250 2000 9850 2000
+Wire Wire Line
+	9850 2000 9850 1950
+Wire Wire Line
+	9850 1950 9450 1950
+Wire Wire Line
+	9050 1950 9050 2000
+Connection ~ 9850 1950
+Connection ~ 9450 1950
+Wire Wire Line
+	9450 1950 9050 1950
+Connection ~ 9050 2000
 $EndSCHEMATC

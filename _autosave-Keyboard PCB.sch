@@ -2380,4 +2380,14 @@ Connection ~ 9450 1950
 Wire Wire Line
 	9450 1950 9050 1950
 Connection ~ 9050 2000
+Text GLabel 3100 6500 2    50   Input ~ 0
+ROW4
+Text GLabel 3100 6400 2    50   Input ~ 0
+ROW3
+Text GLabel 3100 6300 2    50   Input ~ 0
+ROW2
+Text GLabel 3100 6200 2    50   Input ~ 0
+ROW1
+Text GLabel 3100 6100 2    50   Input ~ 0
+ROW0
 $EndSCHEMATC
