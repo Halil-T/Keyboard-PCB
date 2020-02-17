@@ -7,3 +7,6 @@
 [submodule "Housings_QFP.pretty"]
 	path = Housings_QFP.pretty
 	url = https://github.com/KiCad/Housings_QFP.pretty
+[submodule "Unified-Daughterboard"]
+	path = Unified-Daughterboard
+	url = https://github.com/ai03-2725/Unified-Daughterboard
