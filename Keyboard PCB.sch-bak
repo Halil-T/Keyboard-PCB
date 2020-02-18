@@ -2404,20 +2404,20 @@ Text GLabel 3100 3800 2    50   Input ~ 0
 COL9
 Text GLabel 3100 3700 2    50   Input ~ 0
 COL8
-Text GLabel 3100 5300 2    50   Input ~ 0
+Text GLabel 3100 5600 2    50   Input ~ 0
 COL7
 Text GLabel 3100 5500 2    50   Input ~ 0
 COL6
-Text GLabel 3100 5600 2    50   Input ~ 0
+Text GLabel 3100 5300 2    50   Input ~ 0
 COL5
-Text GLabel 3100 4700 2    50   Input ~ 0
+Text GLabel 3100 4100 2    50   Input ~ 0
 COL0
-Text GLabel 3100 4600 2    50   Input ~ 0
+Text GLabel 3100 4200 2    50   Input ~ 0
 COL1
 Text GLabel 3100 4300 2    50   Input ~ 0
 COL2
-Text GLabel 3100 4200 2    50   Input ~ 0
+Text GLabel 3100 4600 2    50   Input ~ 0
 COL3
-Text GLabel 3100 4100 2    50   Input ~ 0
+Text GLabel 3100 4700 2    50   Input ~ 0
 COL4
 $EndSCHEMATC
