@@ -3,4 +3,5 @@
   (lib (name random-keyboard-parts)(type Legacy)(uri "${KIPRJMOD}/random-keyboard-parts.pretty/Schematic Library/random-keyboard-parts.lib")(options "")(descr ""))
   (lib (name Keyboard_PCB-cache)(type Legacy)(uri "${KIPRJMOD}/Keyboard PCB-cache.lib")(options "")(descr ""))
   (lib (name Unified-Daughterboard-cache)(type Legacy)(uri ${KIPRJMOD}/Unified-Daughterboard/KiCad/C1/Unified-Daughterboard-cache.lib)(options "")(descr ""))
+  (lib (name Type-C)(type Legacy)(uri ${KIPRJMOD}/Type-C.pretty/Type-C.lib)(options "")(descr ""))
 )

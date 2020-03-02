@@ -401,17 +401,6 @@ Wire Wire Line
 Wire Wire Line
 	900  4700 1550 4700
 $Comp
-L random-keyboard-parts:Molex-0548190589 USB1
-U 1 1 5E4525DF
-P 1150 2250
-F 0 "USB1" V 1687 2217 60  0000 C CNN
-F 1 "Molex-0548190589" V 1581 2217 60  0000 C CNN
-F 2 "random-keyboard-parts:Molex-0548190589" H 1150 2250 60  0001 C CNN
-F 3 "" H 1150 2250 60  0001 C CNN
-	1    1150 2250
-	0    -1   -1   0   
-$EndComp
-$Comp
 L power:VCC #PWR0111
 U 1 1 5E454BFF
 P 1750 1900
@@ -455,18 +444,18 @@ Wire Wire Line
 $Comp
 L power:GND #PWR0113
 U 1 1 5E462233
-P 1500 2500
-F 0 "#PWR0113" H 1500 2250 50  0001 C CNN
-F 1 "GND" H 1505 2327 50  0000 C CNN
-F 2 "" H 1500 2500 50  0001 C CNN
-F 3 "" H 1500 2500 50  0001 C CNN
-	1    1500 2500
+P 1500 2400
+F 0 "#PWR0113" H 1500 2150 50  0001 C CNN
+F 1 "GND" H 1505 2227 50  0000 C CNN
+F 2 "" H 1500 2400 50  0001 C CNN
+F 3 "" H 1500 2400 50  0001 C CNN
+	1    1500 2400
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	1500 2500 1500 2450
+	1500 2400 1500 2350
 Wire Wire Line
-	1500 2450 1450 2450
+	1500 2350 1450 2350
 Text GLabel 1550 2150 2    50   Input ~ 0
 D-
 Text GLabel 1550 2250 2    50   Input ~ 0
@@ -2420,4 +2409,15 @@ Text GLabel 3100 4600 2    50   Input ~ 0
 COL3
 Text GLabel 3100 4700 2    50   Input ~ 0
 COL4
+$Comp
+L Unified-Daughterboard-cache:Connector_Generic_Conn_01x04 J1
+U 1 1 5E4C585F
+P 1250 2250
+F 0 "J1" H 1168 1825 50  0000 C CNN
+F 1 "Connector_Generic_Conn_01x04" H 1168 1916 50  0000 C CNN
+F 2 "Connector_JST:JST_ZE_SM04B-ZESS-TB_1x04-1MP_P1.50mm_Horizontal" H 1250 2250 50  0001 C CNN
+F 3 "" H 1250 2250 50  0001 C CNN
+	1    1250 2250
+	-1   0    0    1   
+$EndComp
 $EndSCHEMATC
